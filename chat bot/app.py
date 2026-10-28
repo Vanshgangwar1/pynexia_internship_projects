@@ -89,7 +89,7 @@ def get_response(user_input: str) -> tuple[str, bool]:
 def start_chat():
     """Runs the continuous terminal chatbot session."""
     print("=" * 60)
-    print("🤖 Welcome to PyBot - Rule-Based Chatbot")
+    print(" Welcome to PyBot - Rule-Based Chatbot")
     print("Type 'exit' or 'bye' at any time to end the conversation.")
     print("=" * 60)
 
